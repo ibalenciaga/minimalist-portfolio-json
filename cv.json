@@ -1,66 +1,99 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Iñaki Balenciaga Bueno",
+    "label": "Desarrollador Full Stack",
+    "image": "/foto-perfil.webp",
+    "email": "ibalenciaga@gmail.com",
+    "phone": "645720230",
+    "url": "https://ibalenciaga.info",
+    "summary": "¡Hola! Soy un desarrollador de páginas web full stack con 5 años de experiencia. Mi experiencia en el desarrollo frontend me permite crear tanto páginas utilizando tecnologías como HTML, CSS y JavaScript, junto con frameworks modernos como Vue.js y Astro. \nPor otro lado, en el desarrollo backend, tengo experiencia en la construcción de API REST, la manipulación de bases de datos y la implementación de lógica de negocio utilizando tecnologías como PHP con frameworks como Symfony o Codeigniter. \nAdemás de mis habilidades técnicas, también he trabajado como freelance, lo que me ha brindado la oportunidad de colaborar con una variedad de clientes y proyectos, adaptándome a diferentes requerimientos y necesidades.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
+      "postalCode": "20001",
+      "city": "Donostia",
       "region": "España"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "ibalenciaga",
+        "url": "https://linkedin.com/in/ibalenciaga"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "ibalenciaga",
+        "url": "https://github.com/ibalenciaga"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Peña Hípica Donostiarra",
+      "position": "Desarrollador full stack - Freelance",
+      "url": "https://elkartea.com",
+      "startDate": "2023-12-16",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Una nueva versión de la aplicación para sociedades gastronómicas. Ésta nueva plataforma incluye la posibilidad de integrarla en más de una sociedad. Además de poder crear las reservas, los socios podrán crear las facturas de los productos consumidos. Así mismo, las personas encargadas de gestionar la aplicación podrán tener la información de todos sus socios, las reservas ya sea a través de un listado o mediante un calendario con la visión global de todo el mes, el inventario de los productos que tiene su sociedad y unas gráficas con datos que pueden ayudar a tener una perspectiva objetiva de los diferentes datos relativos a las reservas, socios o consumiciones.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Bibagu",
+      "position": "Técnico desarrollador full stack",
+      "url": null,
+      "startDate": "2022-09-01",
+      "endDate": "2023-12-01",
+      "summary": "Mi primer trabajo en una startup. Entré muy al inicio y parte de la aplicación estaba hecha por una empresa contratada. Mi principal objetivo fue llegar a entender todas las partes de la aplicación para poder dedicarme yo sólo a la implantación de todas las nuevas funcionalidades que le íbamos añadiendo. Aprendí a trabajar por separado la parte del backend y la del frontend utilizando diferentes frameworks. El objetivo era crear una interfaz de usuario accesible que cada día iba creciendo. La parte más importante de la plataforma era mostrar diferentes gráficos obteniendo los datos desde llamadas a la API.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "OARO",
+      "position": "Técnico desarrollador full stack",
+      "startDate": "2021-12-01",
+      "endDate": "2022-03-01",
+      "summary": "Éste ha sido por el momento el único trabajo que he realizado 100% en remoto. Aprendí a ser muy autónomo para solucionar los diferentes problemas que me encontraba en las tareas que tenía asignadas.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Ilargi Berdea",
+      "position": "Desarrollador full stack - Freelance",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-01",
+      "summary": "Hice la página web de una asociación del sector del circo dedicada a implantar diferentes cursos. La finalidad de la página web era dar visibilidad tanto a la asociación como al mundo del circo. Era necesario que la persona encargada de llevar la página web pudiese actualizar las fotos y los horarios de los cursos semanalmente, con lo que me decidí a hacerla con el framework Wordpress.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Lombok",
+      "position": "Técnico desarrollador full stack",
+      "startDate": "2019-06-01",
+      "endDate": "2020-03-01",
+      "summary": "Fue mi primer trabajo con clientes y con la presión que ello conlleva. Trabajamos con todo tipo de sectores y eso hacía que cada web se hiciera de una manera diferente aunque la mayoría de ellas las hacíamos con Wordpress. Mi reto era llegar a las fechas de entrega. Aprendí a trabajar con los diferentes departamentos en el proceso de la creación de una página web.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Iparki",
+      "position": "Técnico desarrollador full stack",
+      "startDate": "2018-03-01",
+      "endDate": "2018-05-01",
+      "summary": "Mientras trabajaba en FeelFree Rentals, me surgió la oportunidad de ayudar a una amiga con la web de su empresa. Ella quería poder modificar la web en un futuro y por eso me decanté por hacerla con Wordpress. Mi principal reto fue crear una página web desde 0 y sin ningún tipo de ayuda. Tuve que aprender el funcionamiento de los hostings, compra de dominios, configuraciones DNS y creación de bases de datos en la nube.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "FeelFree Rentals",
+      "position": "Técnico desarrollador full stack",
+      "startDate": "2017-10-01",
+      "endDate": "2018-12-01",
+      "summary": "Fue mi primer trabajo en una empresa. Por un lado teníamos la web de reservas de apartamentos y por otro lado un CMS interno para los propios trabajadores para organizar el día a día. Mi reto inicial fue llegar a entender las dos aplicaciones con las que yo iba a trabajar diariamente. Además tenía que cumplir con los sprints semanales y metodologías ágiles que por ese momento eran desconocidas para mí. Tenía varias tareas semanales en cada sprint asignadas por mi responsable de departamento. Aprendí a trabajar en equipo y a utilizar los repositorios cómo manera de unificar mis tareas con las de mis compañeros.",
       "highlights": [
         "Started the company"
       ]
@@ -78,15 +111,15 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "institution": "Zubir Manteo",
+    "url": "https://zubirimanteo.hezkuntza.net/es/inicio",
+    "area": "FP II - Desarrollo de Aplicaciones Web",
+    "studyType": "Formación profesional",
+    "startDate": "2014-01-01",
+    "endDate": "2016-01-01",
+    "score": null,
     "courses": [
-      "DB1101 - Basic SQL"
+      null
     ]
   }],
   "awards": [{
@@ -110,7 +143,24 @@
   }],
   "skills": [
     {
+      "name": "PHP",
+      "iconName": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Symfony",
+      "iconName": "symfonyIcon",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
       "name": "HTML",
+      "iconName": "HTML",
       "level": "Master",
       "keywords": [
         "Desarrollo Web", "Frontend"
@@ -118,6 +168,7 @@
     },
     {
       "name": "CSS",
+      "iconName": "CSS",
       "level": "Master",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
@@ -125,34 +176,23 @@
     },
     {
       "name": "JavaScript",
+      "iconName": "JavaScript",
       "level": "Master",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
       "name": "TypeScript",
+      "iconName": "TypeScript",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
       "name": "MySQL",
+      "iconName": "MySQL",
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
@@ -160,6 +200,7 @@
     },
     {
       "name": "Git",
+      "iconName": "Git",
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente"
@@ -167,23 +208,50 @@
     },
     {
       "name": "GitHub",
+      "iconName": "GitHub",
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Vue.Js",
+      "iconName": "Vue",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
-      "name": "React",
+      "name": "Astro",
+      "iconName": "AstroIcon",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "iconName": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "API REST",
+      "iconName": null,
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JSON",
+      "iconName": null,
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     }
   ],
