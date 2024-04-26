@@ -10,8 +10,12 @@ import { work } from "@cv"
       work.map(
         ({ name, startDate, endDate, position, summary, highlights, url }) => {
           const startYear = new Date(startDate).getFullYear()
-          const endYear =
-            endDate != null ? new Date(endDate).getFullYear() : "Actual"
+          const startMonth = new Date(startDate).getMonth()
+          const formattedStartMonth = (startMonth + 1).toString().padStart(2, '0');
+
+          const endYear = endDate != null ? new Date(endDate).getFullYear() : "Actual"
+          const endMonth = endDate != null ? new Date(endDate).getMonth() : null
+          const formattedEndMonth = endMonth != null ? (endMonth + 1).toString().padStart(2, '0') : null;
 
           return (
             <li>
@@ -30,13 +34,13 @@ import { work } from "@cv"
                     <time 
                       datetime={startDate}
                       data-title={startDate}>
-                        {startYear}
+                        {startYear}-{formattedStartMonth}
                     </time>
                     {" - "}
                     <time 
                       datetime={endDate}
                       data-title={endDate}>
-                        {endYear}
+                        {endYear}-{formattedEndMonth}
                     </time>
                   </div>
                 </header>
