@@ -27,6 +27,17 @@
   },
   "work": [
     {
+      "name": "Benio",
+      "position": "Desarrollador full stack",
+      "url": "https://benio.es/",
+      "startDate": "2024-07-16",
+      "endDate": null,
+      "summary": "Hemos creado una app para una tienda tienda local que vende todo tipo de productos de diferentes proveedores. Hemos configurado la TPV, una báscula, lector de tickets e impresora de tickets. Todos los pagos se realizan mediante tarjeta con lo que hemos tenido que crear la pasarela de pago correspondiente y configurarla para que los pagos les llegue a los diferentes proveedores. Además Tenemos una plataforma para mejorar el clima laboral de las empresas. Me dedico a programar los diferentes módulos como el envío de encuesta de clima o el módulo de competencias que se pueden evaluar. También trato directamente con los clientes para garantizar sus necesidades y resolver sus problemas.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "Peña Hípica Donostiarra",
       "position": "Desarrollador full stack - Freelance",
       "url": "https://elkartea.com",
@@ -143,6 +154,30 @@
   }],
   "skills": [
     {
+      "name": "Node.js",
+      "iconName": "Nodejs",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "HTML",
+      "iconName": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "iconName": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
       "name": "PHP",
       "iconName": "PHP",
       "level": "Avanzado",
@@ -156,22 +191,6 @@
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "HTML",
-      "iconName": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "iconName": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
@@ -194,6 +213,14 @@
       "name": "MySQL",
       "iconName": "MySQL",
       "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "iconName": "MongoDB",
+      "level": "Master",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
