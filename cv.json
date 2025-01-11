@@ -32,7 +32,7 @@
       "url": "https://benio.es/",
       "startDate": "2024-07-16",
       "endDate": null,
-      "summary": "Hemos creado una app para una tienda tienda local que vende todo tipo de productos de diferentes proveedores. Hemos configurado la TPV, una báscula, lector de tickets e impresora de tickets. Todos los pagos se realizan mediante tarjeta con lo que hemos tenido que crear la pasarela de pago correspondiente y configurarla para que los pagos les llegue a los diferentes proveedores. Además Tenemos una plataforma para mejorar el clima laboral de las empresas. Me dedico a programar los diferentes módulos como el envío de encuesta de clima o el módulo de competencias que se pueden evaluar. También trato directamente con los clientes para garantizar sus necesidades y resolver sus problemas.",
+      "summary": " Tenemos una plataforma para mejorar el clima laboral de las empresas. Me dedico a programar los diferentes módulos como el envío de encuesta de clima o el módulo de competencias que se pueden evaluar. También trato directamente con los clientes para garantizar sus necesidades y resolver sus problemas. Además hemos creado una app para una tienda local que vende todo tipo de productos de diferentes proveedores. Hemos configurado la TPV, una báscula, lector de tickets e impresora de tickets. Todos los pagos se realizan mediante tarjeta con lo que hemos tenido que crear la pasarela de pago correspondiente y configurarla para que los pagos les llegue a los diferentes proveedores.",
       "highlights": [
         "Started the company"
       ]
@@ -252,6 +252,14 @@
     {
       "name": "Astro",
       "iconName": "AstroIcon",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "AngularJs",
+      "iconName": "Angularjs",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
